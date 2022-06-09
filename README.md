@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sugandha-kadp
-- Undergraduate BSc (Hons) in Information Technology - SLIIT
+- Undergraduate - SLIIT
 - Student Registration Number : IT20658236
