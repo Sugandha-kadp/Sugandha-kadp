@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I’m Sugandha kadp :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
+<h1 align="center"> 👋 Hi, I’m Sugandha K A D P :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "500" height = "400"/>
 </div>
